@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-style: solid;
+  border-color: darkseagreen ;
+  border-width: 10px;
+}
+
+.Two {
+    margin: auto;
+}
+
