@@ -1,0 +1,1 @@
+{"version":3,"sources":["image.css"],"names":[],"mappings":"AAAA,IACI,WAAY,CACZ,YAAa,CACb,WAAY,CAGd,yBACF,CAEA,KACI,WACJ","file":"main.383b2cc4.chunk.css","sourcesContent":["img {\n    width: 200px;\n    height: 200px;\n    margin: 20px;\n    border-style: solid;\n  border-color: darkseagreen ;\n  border-width: 10px;\n}\n\n.Two {\n    margin: auto;\n}\n\n"]}
